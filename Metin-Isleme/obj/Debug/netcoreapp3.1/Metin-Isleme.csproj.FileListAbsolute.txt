@@ -1,0 +1,15 @@
+C:\Users\turya\source\repos\Metin-Isleme\obj\Debug\netcoreapp3.1\Metin-Isleme.csprojAssemblyReference.cache
+C:\Users\turya\source\repos\Metin-Isleme\obj\Debug\netcoreapp3.1\Metin_Isleme.Form1.resources
+C:\Users\turya\source\repos\Metin-Isleme\obj\Debug\netcoreapp3.1\Metin-Isleme.csproj.GenerateResource.cache
+C:\Users\turya\source\repos\Metin-Isleme\obj\Debug\netcoreapp3.1\Metin-Isleme.AssemblyInfoInputs.cache
+C:\Users\turya\source\repos\Metin-Isleme\obj\Debug\netcoreapp3.1\Metin-Isleme.AssemblyInfo.cs
+C:\Users\turya\source\repos\Metin-Isleme\obj\Debug\netcoreapp3.1\Metin-Isleme.csproj.CoreCompileInputs.cache
+C:\Users\turya\source\repos\Metin-Isleme\bin\Debug\netcoreapp3.1\Metin-Isleme.exe
+C:\Users\turya\source\repos\Metin-Isleme\bin\Debug\netcoreapp3.1\Metin-Isleme.deps.json
+C:\Users\turya\source\repos\Metin-Isleme\bin\Debug\netcoreapp3.1\Metin-Isleme.runtimeconfig.json
+C:\Users\turya\source\repos\Metin-Isleme\bin\Debug\netcoreapp3.1\Metin-Isleme.runtimeconfig.dev.json
+C:\Users\turya\source\repos\Metin-Isleme\bin\Debug\netcoreapp3.1\Metin-Isleme.dll
+C:\Users\turya\source\repos\Metin-Isleme\bin\Debug\netcoreapp3.1\Metin-Isleme.pdb
+C:\Users\turya\source\repos\Metin-Isleme\obj\Debug\netcoreapp3.1\Metin-Isleme.dll
+C:\Users\turya\source\repos\Metin-Isleme\obj\Debug\netcoreapp3.1\Metin-Isleme.pdb
+C:\Users\turya\source\repos\Metin-Isleme\obj\Debug\netcoreapp3.1\Metin-Isleme.genruntimeconfig.cache
