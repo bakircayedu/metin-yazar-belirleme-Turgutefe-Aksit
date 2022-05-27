@@ -10,7 +10,7 @@ metin-yazar-belirleme-Turgutefe-Aksit created by GitHub Classroom
 
 * Txt dosyasını seçme ve okuma işlemlerini microsoft'un kendi sitesinden aldım.(Linki yorum satırı içerisinde verdim).
 
-* Node klasınıa birden fazla Stack yapısı için kullandım. Bu yüzden bazılarında nodeler üzerinde sadece ihtiyacım olan
+* Node klasını birden fazla Stack değişkeni için kullandım. Bu yüzden bazılarında nodeler üzerinde sadece ihtiyacım olan
 değişkenleri kullandım.
 
 * Kelimeleri Heap Ağacına atarkan frekansa göre sıralı bir şekilde attım.
