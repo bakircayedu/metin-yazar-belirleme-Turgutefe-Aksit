@@ -1,6 +1,7 @@
 # metin-yazar-belirleme-Turgutefe-Aksit
 metin-yazar-belirleme-Turgutefe-Aksit created by GitHub Classroom
 
+* 200601005 Turgutefe-Akşit
 * Uygulama ilk başlatıldığında buttonlara sırasıyla tıklanmalıdır. Bunun için bir butona basıldıktan sonra sıradaki buttonun tıklanabilirliği enable olmaktadır.
 
 * Hashleme algoritması çalışmaktadır, sadece ekrana yazdırmadım. Debug işlemi ile watchtan verinin tutulduğu gözükmektedir.
